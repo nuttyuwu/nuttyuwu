@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/nuttyuwu/lilith-desktop">Lilith Desktop</a> &nbsp; · &nbsp;
   <a href="https://github.com/nuttyuwu?tab=repositories">my projects</a> &nbsp; · &nbsp;
-  <a href="https://github.com/nuttyuwu/lilith-desktop/releases/latest">bring Lilith home</a>
+
 </p>
 
 ### a little about me

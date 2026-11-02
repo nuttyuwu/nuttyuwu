@@ -2,6 +2,8 @@
   <img src="assets/header.svg" width="100%" alt="hihi~ i'm khongor. a little code. a little company. a little mischief." />
 </p>
 
+<p align="center"><sub>a little code. a little company. a little mischief.</sub></p>
+
 <p align="center">
   <a href="https://github.com/nuttyuwu/lilith-desktop">Lilith Desktop</a> &nbsp; · &nbsp;
   <a href="https://github.com/nuttyuwu?tab=repositories">my projects</a> &nbsp; · &nbsp;
@@ -29,7 +31,7 @@ built around the pet i liked, with more ways to interact. character assets come 
 <br />
 <img src="https://raw.githubusercontent.com/nuttyuwu/lilith-desktop/main/docs/images/lilith-in-action.gif" width="700" alt="Lilith animated on the desktop" />
 <br />
-<sub>A recorded app demo. Open the project README for the controls and setup details.</sub>
+<sub>A staged animation showcase. Open the project README for the controls and setup details.</sub>
 </details>
 
 <img src="assets/divider.svg" width="100%" alt="" />

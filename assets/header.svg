@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">hihi~ I'm Khongor — nuttyuwu</title>
+<desc id="desc">A quiet charcoal and crimson banner with slowly drifting stars. Desktop companions, useful tools, and little experiments.</desc>
+<defs><radialGradient id="glow"><stop stop-color="#751d36" stop-opacity=".48"/><stop offset="1" stop-color="#100e14" stop-opacity="0"/></radialGradient><linearGradient id="line"><stop stop-color="#df8499"/><stop offset="1" stop-color="#df8499" stop-opacity="0"/></linearGradient></defs>
+<style>
+.star{transform-box:fill-box;transform-origin:center;animation:breathe 6s ease-in-out infinite}.slow{animation-delay:-3s}.orbit{animation:drift 10s ease-in-out infinite;transform-origin:960px 164px}@keyframes breathe{0%,100%{opacity:.35}50%{opacity:.9}}@keyframes drift{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}@media(prefers-reduced-motion:reduce){.star,.orbit{animation:none}}
+</style>
+<rect width="1200" height="340" rx="20" fill="#100e14"/>
+<ellipse cx="1000" cy="166" rx="330" ry="260" fill="url(#glow)"/>
+<rect x="1" y="1" width="1198" height="338" rx="19" fill="none" stroke="#36212b"/>
+<path d="M64 72h28" stroke="#d67c93" stroke-width="2"/>
+<text x="107" y="77" fill="#c791a2" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="5">NUTTYUWU / PERSONAL SPACE</text>
+<text x="62" y="163" fill="#f4edf1" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="600">hihi~ i'm khongor.</text>
+<text x="65" y="211" fill="#b9aab6" font-family="Segoe UI,Arial,sans-serif" font-size="21">a little code. a little company. a little mischief.</text>
+<path d="M65 258h560" stroke="url(#line)"/>
+<text x="65" y="289" fill="#ba8294" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">COMPANIONS · TOOLS · EXPERIMENTS</text>
+<g class="orbit" fill="none" stroke="#9b4a64"><circle cx="999" cy="166" r="76" opacity=".28"/><path d="M999 61v210M894 166h210" opacity=".14"/><path d="M999 119l12 35 35 12-35 12-12 35-12-35-35-12 35-12z" fill="#b7627d" fill-opacity=".12" stroke="#d18ba0"/><circle cx="999" cy="166" r="9" fill="#e5b9c6" stroke="none"/></g>
+<g fill="#d59aaf"><path class="star" d="M895 81l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/><path class="star slow" d="M1103 234l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/><circle class="star slow" cx="1098" cy="86" r="2"/><circle class="star" cx="895" cy="255" r="2"/></g>
+</svg>

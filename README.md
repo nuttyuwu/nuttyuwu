@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="hihi~ i'm khongor. a little code. a little company. a little mischief." />
+  <img src="assets/header.svg" width="100%" alt="hihi~ i'm khongor. Electrical engineer focused on embedded systems and automation." />
 </p>
 
-<p align="center"><sub>a little code. a little company. a little mischief.</sub></p>
+<p align="center"><sub>Electrical engineer focused on embedded systems and automation.</sub></p>
 
 <p align="center">
   <a href="https://github.com/nuttyuwu/lilith-desktop">Lilith Desktop</a> &nbsp; · &nbsp;
@@ -12,9 +12,7 @@
 
 ### a little about me
 
-i make things i want to use — desktop companions, practical tools, and the occasional hardware experiment. i like software with a bit of personality, especially when it makes everyday life feel less boring.
-
-lately, that means giving **Lilith** a little more life on the desktop.
+I'm an electrical engineer focused on embedded systems and automation. I build practical tools that connect hardware and software, alongside personal projects like Lilith.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 

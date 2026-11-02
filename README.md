@@ -12,7 +12,7 @@
 
 ### a little about me
 
-I'm an electrical engineer focused on embedded systems and automation. I build practical tools that connect hardware and software, alongside personal projects like Lilith.
+I'm an Electrical engineer focused on embedded systems and automation. I build practical tools that connect hardware and software, alongside personal projects like Lilith.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
